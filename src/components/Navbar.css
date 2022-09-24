@@ -1,0 +1,29 @@
+.navbar {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+}
+
+.name-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.name-logo:hover {
+    color: mintcream;
+    transition: 0.3s;
+    transform: scale(1.04);
+}
+
+
+
+
+
+
