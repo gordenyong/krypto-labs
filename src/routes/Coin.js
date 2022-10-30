@@ -2,7 +2,7 @@ import axios from 'axios'
 import { useParams } from 'react-router-dom'
 import React, { useState, useEffect } from 'react'
 import DOMPurify from 'dompurify'
-
+// import { faGhost } from '@fortawesome/free-brands-svg-icons'
 import './Coin.css'
 
 const Coin = () => {

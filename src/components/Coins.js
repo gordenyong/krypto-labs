@@ -5,7 +5,6 @@ import {Link} from 'react-router-dom'
 import './Coins.css'
 
 
-
 const Coins = (props) => {
   return (
     <div className='container'>
